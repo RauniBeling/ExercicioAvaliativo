@@ -1,0 +1,45 @@
+
+Nome: José
+Salário: 1000
+Idade: 25
+Cargo: Programador
+Artefatos: 4
+Faltas: 0
+Graduação: Superior
+Tempo de Empresa: 5
+Tipo de Bonus: Generoso
+Bonus Recebidos: Assiduidade, Artefato, Graduação, Tempo de Empresa, 
+Valor Total: 495.0
+Nome: José
+Salário: 1000
+Idade: 25
+Cargo: Programador
+Artefatos: 4
+Faltas: 0
+Graduação: Superior
+Tempo de Empresa: 5
+Tipo de Bonus: Generoso
+Bonus Recebidos: Assiduidade, Artefato, Graduação, Tempo de Empresa, 
+Valor Total: 495.0
+Nome: José
+Salário: 1000
+Idade: 25
+Cargo: Programador
+Artefatos: 4
+Faltas: 0
+Graduação: Superior
+Tempo de Empresa: 5
+Tipo de Bonus: Generoso
+Bonus Recebidos: Assiduidade, Artefato, Graduação, Tempo de Empresa, 
+Valor Total: 495.0
+Nome: José
+Salário: 1000
+Idade: 25
+Cargo: Programador
+Artefatos: 4
+Faltas: 0
+Graduação: Superior
+Tempo de Empresa: 5
+Tipo de Bonus: Generoso
+Bonus Recebidos: Assiduidade, Artefato, Graduação, Tempo de Empresa, 
+Valor Total: 495.0

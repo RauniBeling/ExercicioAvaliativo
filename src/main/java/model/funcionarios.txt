@@ -1,0 +1,3 @@
+"José", 1500, 25, "Programador", 4, 0, "Superior", 5, "Generoso"
+"Paulo", 2000, 30, "DBA", 5, 1, "Doutorado", 4, "Padrão"
+"Maria", 2000, 23, "DBA", 3, 2, "Mestrado", 3, "Padrão"
